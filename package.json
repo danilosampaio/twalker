@@ -1,6 +1,6 @@
 {
   "name": "twalker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "List files grouped by type, asynchronously.",
   "license": "MIT",
   "repository": "danilosampaio/twalker",
