@@ -45,6 +45,7 @@ The base directory where it walks from.
 
 ##### types
 
+*Optional*  
 Type: `JSON`  
 
 List of files extensions grouped by type.
