@@ -1,0 +1,34 @@
+{
+  "name": "twalker",
+  "version": "0.0.1",
+  "description": "List files grouped by type, asynchronously.",
+  "license": "MIT",
+  "repository": "danilosampaio/twalker",
+  "author": {
+    "name": "Danilo Sampaio",
+    "email": "danilo.sampaio@gmail.com",
+    "url": "github.org/danilosampaio"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "file",
+    "type",
+    "extensions",
+    "walk"
+  ],
+  "dependencies": {
+    "walk": "^2.3.9"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "xo": "^0.5.1"
+  }
+}

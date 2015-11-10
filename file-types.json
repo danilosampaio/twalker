@@ -1,0 +1,131 @@
+{
+  "Archive and compressed":[
+      "cab","7z","aac","ace","alz","apk","at3","bke","arc","arj","ass","sas",
+      "b","ba","big","bik","bin","bkf","bzip2","bz2","bld","c4","cab","cals",
+      "clipflair","cpt","sea","daa","deb","dmg","ddz","dpe","egg","egt","ecab",
+      "ezip","ess","gho","ghs","gzip","gz","ipg","jar","lbr","lqr","lha","lzh",
+      "lzip","lz","lzo","lzma","lzx","mbw","mpq","bin","nth","osz","pak","par",
+      "par2","paf","pyk","pk3","pk4","rar","[rstuvwxyz][01-99]","rag","rpm",
+      "sen","sit","sitx","skb","tar","tgz","tb","tib","uha","uue","viv","vol",
+      "vsa","wax","z","zoo","zip"],
+  "Physical recordable media archiving":[
+      "iso","nrg","img","adf","adz","dms","dsk","d64","sdi","mds","mdx","dmg",
+      "cdi","cue","cif","c2d","daa","ccd","sub","img","b6t"],
+  "Computer-aided Design":[
+      "3dmlw","3dxml","3mf","acp","amf","aec","ar","art","asc","asm","bin",
+      "bim","brep","ccc","ccm","ccs","cad","catdrawing","catpart","catproduct",
+      "catprocess","cgr","co","drw","dft","dgn","dgk","dmt","dxf","dwb","dwf",
+      "dwg","easm","edrw","emb","eprt","escpcb","escsch","esw","excellon","exp",
+      "fm","fmz","g","gbr","glm","grb","gtc","iam","icd","idw","ifc","iges",
+      "ipn","ipt","jt","mcd","model","ocd","par","pipe","pln","prt","psm",
+      "psmodel","pwi","pyt","skp","rlf","rvm","rvt","rfa","s12","scad","scdoc",
+      "sldasm","slddrw","sldprt","step","stl","tct","tcw","unv","vc6","vlm",
+      "vs","wrl","x_b","x_t","xe"],
+  "Database":[
+      "4db","4dd","4dindy","4dindx","4dr","accdb","accde","adt","apr","box",
+      "chml","daf","at","dat","db","db","dbf","egt","ess","eap","fdb","fdb",
+      "fp","fp3","fp5","fp7","frm","gdb","gtable","kexi","kexic","kexis","ldb",
+      "mda","mdb","adp","mde","mdf","myd","myi","ncf","nsf","ntf","nv2","odb",
+      "ora","pdb","pdi","pdx","prc","sql","rec","rel","rin","sdb","sdf","udl",
+      "wadata","waindx","wamodel","wajournal","wdb","wmdb"],
+  "Desktop publishing":[
+      "ai","ave","cdr","chp","pub","sty","cap","cif","vgr","frm","cpt","dtp",
+      "gdraw","ildoc","indd","psd","mcf","pdf","pmd","ppp","pub","qxd","fm",
+      "sla","scd"],
+  "Document":[
+      "602","abw","acl","afp","ami","amigaguide","ans","asc","aww","ccf","csv",
+      "cwk","dbk","doc","docm","docx","dot","dotx","egt","epub","ezw","fdx",
+      "ftm","ftx","gdoc","html","hwp","hwpml","log","lwp","mbp","md","mcw",
+      "mobi","nb","nbp","odm","odt","ott","omm","pages","pap","pdax","pdf",
+      "radix-64","rtf","quox","rpt","sdw","se","stw","sxw","tex","info","troff",
+      "txt","uof","uoml","via","wpd","wps","wpt","wrd","wrf","wri","xhtml",
+      "xml","xps"],
+  "Font file":[
+      "abf","afm","bdf","bmf","fnt","fon","mgf","otf","pcf","pfa","pfb","pfm",
+      "afm","fond","sfd","snf","tdf","tfm","ttf","ttc","woff"],
+  "Images":[
+      "ase","art","blp","bmp","cd5","cit","cpt","cr2","cut","dds","dib","djvu",
+      "egt","exif","gif","gpl","grf","icns","ico","iff","ilbm","lbm","jng",
+      "jpeg","jfif","jpg","jp2","jps","lbm","max","miff","mng","msp","nitf",
+      "otb","pbm","pc1","pc2","pc3","pcf","pcx","pdn","pgm","pi1","pi2","pi3",
+      "pict","pct","png","pnm","pns","ppm","psb","psd","pdd","psp","px","pxm",
+      "pxr","qfx","raw","rle","sct","sgi","rgb","int","bw","tga","targa","icb",
+      "vda","vst","pix","tiff","tif","vtf","xbm","xcf","xpm"],
+  "Vector graphics":[
+      "3dv","amf","awg","ai","cgm","cdr","cmx","dxf","e2d","egt","eps","fs",
+      "gbr","odg","svg","stl","vrml","x3d","sxd","v2d","vnd","wmf","emf","art",
+      "xar"],
+  "3D graphics":[
+      "3dmf","3dm","3mf","3ds","abc","ac","amf","an8","aoi","b3d","blend",
+      "block","c4d","cal3d","ccp4","cfl","cob","core3d","ctm","dae","dff","dpm",
+      "dts","egg","fact","fac","fbx","g","glm","iob","jas","lwo","lws","lxo",
+      "ma","max","mb","md2","md3","mdx","mesh","mesh","mm3d","mpo","mrc","nif",
+      "obj","off","ogex","ply","prc","pov","r3d","rwx","sia","sib","skp",
+      "sldasm","sldprt","smd","u3d","vim","vrml97","vue","vwx","wings","w3d",
+      "x","x3d","z3d"],
+  "Executables and Libraries":[
+      ".8bf","a","out","apk","app","bac","bpl","bundle","class","coff","com",
+      "dcu","dol","ear","elf","o","so","expander","exe","ipa","jar","xpi",
+      "dylib","nlm","dll",".s1es","vap","war","xbe","xap","xcoff","xex"],
+  "Page description language":[
+      "dvi","egt","pld","pcl","pdf","postscript","ps","snp","xps","xsl-fo",
+      "css","xslt","xsl","xslt","xsl","tpl"],
+  "Presentation":[
+      "gslides","key","keynote","nb","nbp","odp","otp","pez","pot","pps","ppt",
+      "pptx","prz","sdd","shf","show","shw","slp","sspss","sti","sxi","thmx",
+      "watch"],
+  "Script":[
+      "ahk","applescript","as","au3","bat","bas","cljs","cmd","coffee","egg",
+      "egt","erb","hta","ibi","ici","ijs","ipynb","itcl","js","jsfl","lua","m",
+      "mrc","ncf","nut","php","php[0-9]","pl","pm","ps1","ps1xml","psc1","psd1",
+      "psm1","py","pyc","pyo","r","rb","rdp","scpt","scptd","sdl","sh","syjs",
+      "sypy","tcl","vbs","xpl","ebuild"],
+  "Security":["pgp"],
+  "Certificates and keys":["gxk","ssh","pub","ppk"],
+  "X.509":["cer","crt","der","p7b","p7c","p12","pfx","pem","pfx"],
+  "Encrypted files":["axx","eea","tc"],
+  "Password files":["bpw","kdb","kdbx"],
+  "Sound and music":[
+      "8svx","16svx","aiff","aif","aifc","au","bwf","cdda","raw","wav",
+      "flac","la","pac","m4a","ape","ofr","ofs","off","rka","shn","tak","tta",
+      "wv","wma","brstm","dts","dtshd","dtsma","ast","amr","mp2","mp3","spx",
+      "gsm","wma","aac","mpc","vqf","ra","rm","ots","swa","vox","voc","dwd",
+      "smp"],
+  "Other music":[
+      "aup","cust","mid","mus","sib","sid","ly","gym","vgm","psf","nsf","mod",
+      "ptb","s3m","xm","it","mt2","mng","psf","minipsf","psflib","2sf","dsf",
+      "gsf","psf2","qsf","ssf","usf","rmj","spc","niff","mxl","txm","ym","jam",
+      "asf","mp1","mscz","mscz"],
+  "Playlists":["asx","m3u","pls","ram","xpl","xspf","zpl","aimppl"],
+  "Audio editing, music production":[
+      "als","aup","band","cel","cpr","cwp","drm","mmr","npr","omfi","ses","sfl",
+      "sng","stf","snd","syn","flp","vcls","vsq","vsqx"],
+  "Source code for computer programs":[
+      "ada","adb","ads","asm","s","bas","bb","bmx","c","clj","cls","cob","cbl",
+      "cpp","cc","cxx","cbp","cs","csproj","d","dba","dbpro123","e","efs","egt",
+      "el","for","ftn","f","f77","f90","frm","frx","fth","ged","gm6","gmd",
+      "gmk","gml","go","h","hpp","hxx","hs","i","inc","java","l","lgt","lisp",
+      "m","m4","ml","n","nb","p","pas","pp","p","php","php3","php4","php5",
+      "phps","phtml","piv","pl","pm","prg","pro","pol","py","r","red","reds",
+      "rb","resx","rc","rc2","rkt","rktl","scala","sci","sce","scm","sd7","skb",
+      "skc","skd","skf","skg","ski","skk","skm","sko","skp","skq","sks","skt",
+      "skz","sln","spin","stk","swg","tcl","vap","vb","vbg","vbp","vip",
+      "vbproj","vcproj","vdproj","xpl","xq","xsl","y"],
+  "Spreadsheet":[
+      "123","ab2","ab3","aws","clf","cell","csv","gsheet","numbers","gnumeric",
+      "ods","ots","qpw","sdc","slk","stc","sxc","tab","vc","wk1","wk3","wk4",
+      "wks","wks","wq1","xlk","xls","xlsb","xlsm","xlsx","xlr","xlt","xltm",
+      "xlw"],
+  "Tabulated data":["tsv","csv","db","dif"],
+  "Video":[
+      "aaf","3gp","gif","asf","avchd","avi","cam","dat","dsh","flv","m1v","m2v",
+      "fla","flr","sol","m4v","mkv","wrap","mng","mov","mpeg","mpg","mpe","mp4",
+      "mxf","roq","nsv","ogg","rm","svi","smi","swf","wmv","yuv"],
+  "Video editing, production":[
+      "fcp","mswmm","ppj","prproj","imovieproj","veg","veg-bak","suf","wlmp",
+      "kdenlive"],
+  "Virtual machines":[
+      "vfd","vhd","vud","vmc","vsv","vmdk","dsk","nvram","vmem","vmsd","vmsn",
+      "vmss","std","vmtm","vmx","cfg","VMXF","vdi","hdd","pvs","sav","cow",
+      "qcow","qcow2","qed" ]
+}
