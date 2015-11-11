@@ -10,7 +10,7 @@ module.exports = function (baseDir, types) {
 		throw new TypeError('Expected a string');
 	}
 
-	types = types || JSON.parse(fs.readFileSync('./file-types.json', 'utf8'));
+	types = types || JSON.parse(fs.readFileSync(path.join(__dirname, './file-types.json'), 'utf8'));
 
 	var walker = walk.walk(baseDir, {
 		followLinks: false
