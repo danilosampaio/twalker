@@ -65,5 +65,7 @@ module.exports = function (baseDir, types) {
 		twalker._end();
 	});
 
+	twalker.metaTypes = types;
+
 	return twalker;
 };

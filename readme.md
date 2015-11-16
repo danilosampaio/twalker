@@ -29,7 +29,7 @@ walk.on('end', function () {
   console.log('Done.')
 })
 ```
-If the `types` parameter is null, it uses a [default type definition](file-types.json)
+If the `types` parameter is null, it uses a [default type definition](file-types.json), that can be accessed by `twalker.metaTypes` property.
 
 
 ## API
