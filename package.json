@@ -16,7 +16,8 @@
     "test": "mocha"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "file-types.json"
   ],
   "keywords": [
     "file",
